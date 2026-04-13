@@ -1,19 +1,12 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+# **Noble1 Homelab**
+A comprehensive self-hosted infrastructure running on Unraid with 60+ containerized applications for media management, home automation, document management, AI services, and more.
+## 💻Hardware Specifications
+| Component     | Specification                                       | 
+|---------------|-----------------------------------------------------|
+| Server        | Dell PowerEdge R720 (2U)                            | 
+| CPU           | Dual Intel Xeon E5-2650                             |
+| RAM           | 96GB DDR3 ECC                                       |
+| Storage Array | 4x 4TB + 2x 14TB (56TB usable)                      |
+| Parity        | 1x 16TB                                             |
+| Cache         | 1x 1TB SSD                                          |
+| OS            | Unraid                                              |
