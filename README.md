@@ -5,7 +5,6 @@
 # 🌌 Noble1 Homelab
 **A robust, self-hosted sandbox for personal learning and infrastructure experimentation.**
 
-[![Uptime Robot](https://img.shields.io/uptime-robot/status/m787343431-778795848074?style=for-the-badge&logo=uptime-robot&label=Lab%20Status)](https://stats.uptimerobot.com)
 [![Docker](https://img.shields.io/badge/Stack-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Unraid](https://img.shields.io/badge/OS-Unraid-F15A24?style=for-the-badge&logo=unraid&logoColor=white)](https://unraid.net/)
 
